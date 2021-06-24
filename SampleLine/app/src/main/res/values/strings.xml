@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SampLine</string>
+    <string name="age">年齢</string>
+    <string name="food">好きな食べ物</string>
+</resources>
